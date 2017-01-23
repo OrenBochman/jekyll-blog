@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My Data Science Portfollio - up and running :sparkles:!
+title: My Data Science Portfolio - up and running :sparkles:!
 tags: [data science, jekyll, open source]]
 ---
 
-I've been thinking about setting up a portfollio for a while. It certainly can save time when discussing projects that are scattered all over the web. Anyhow this is also a bit of an experiment.
+I've been thinking about setting up a portfolio for a while. It certainly can save time when discussing projects that are scattered all over the web. Anyhow this is also a bit of an experiment.
 
 Up and running with *Jekll* - perhaps a favourite in R and data science world.
 collness includes 
