@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Data Science Portfolio!
+title: My Data Science Portfolio
 tags: [data science, jekyll, open source]]
 ---
 
