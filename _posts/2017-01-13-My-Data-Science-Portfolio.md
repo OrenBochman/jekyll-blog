@@ -16,7 +16,8 @@ There are a number of intersting discussions within the blogospere on the import
 ## Up and running with *Jekyll*
 
 Jekyll is perhaps the favourite platform in R and data science world.
-Some advatages are support for
+Some advatages are support for:
+
 * htmlwidgets
 * Rmakdown + knitr
 * numerous plugins
@@ -24,6 +25,7 @@ Some advatages are support for
 
 
 p.s. 
+
 * https://brendanrocks.com/blogging-with-rmarkdown-knitr-jekyll/
 * https://brendanrocks.com/htmlwidgets-knitr-jekyll/
 * http://www.htmlwidgets.org/
@@ -32,6 +34,7 @@ p.s.
 very quick setup and this project is all about agility and rapid integration!
 
 # Open tasks
+
 - [ ] thank original article for making this blog so quick!
 - [ ] obligatory rss using Rbloggers site.
 - [ ] add plugins does that github pages support
