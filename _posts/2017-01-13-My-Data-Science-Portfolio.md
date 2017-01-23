@@ -34,7 +34,7 @@ very quick setup and this project is all about agility and rapid integration!
 
 # Open tasks
 
-- [*] thank original article for making this blog so quick!
+- [*] thank the original article for making this blog so quick!
 - [ ] obligatory rss using Rbloggers site.
 - [ ] add plugins does that github pages support
 - [ ] customise theme 
