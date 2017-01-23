@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :boom: My Data Science Profollio - up and running :sparkles:!
+title: :boom: My Data Science Portfollio - up and running :sparkles:!
 ---
 
 I've been thinking about setting up a portfollio for a while. It certainly can save time when discussing projects that are scattered all over the web. Anyhow this is also a bit of an experiment.
@@ -19,6 +19,11 @@ p.s.
 
 very quick setup and this project is all about agility and rapid integration!
 
-
+open tasks
+ - [ ] thank original article for making this blog so quick!
+ - [ ] obligatory rss using Rbloggers site.
+ - [ ] add plugins does that github pages support
+ - [ ] customise theme 
+ - [ ] explore page layouts!
 
 cheers!
