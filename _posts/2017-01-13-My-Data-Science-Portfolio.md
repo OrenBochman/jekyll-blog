@@ -2,7 +2,6 @@
 layout: post
 title: My Data Science Portfolio
 tags: [data science, jekyll, open source]]
-date: 2017-01-13
 ---
 
 # Data Science
