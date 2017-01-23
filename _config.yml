@@ -17,16 +17,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: "orenbochman"
   email: "orenbochman@gmail.com"
   facebook: "oren.bochman"
   flickr:
   github: OrenBochman/jekyll-blog
   instagram:
-  linkedin:
-  pinterest:
+  linkedin: "orenbochman"
+  pinterest: "oreboch"
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: "orenbochman"
   stackoverflow: "users/5113941/oren-bochman" # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: "100236982720140154095" # anything in your profile username that comes after plus.google.com/
