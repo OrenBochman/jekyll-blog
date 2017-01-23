@@ -1,6 +1,7 @@
 ---
 layout: post
-title: :boom: My Data Science Portfollio - up and running :sparkles:!
+title: My Data Science Portfollio - up and running :sparkles:!
+tags: [data science, jekyll, open source]]
 ---
 
 I've been thinking about setting up a portfollio for a while. It certainly can save time when discussing projects that are scattered all over the web. Anyhow this is also a bit of an experiment.
