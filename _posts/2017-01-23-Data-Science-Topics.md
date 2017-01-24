@@ -32,7 +32,7 @@ date: 2017-01-23
   * Hive
   * Spark
   
-  ## Skilss
+ ## Skils 
   
    * Leadership
    * rapid POC
