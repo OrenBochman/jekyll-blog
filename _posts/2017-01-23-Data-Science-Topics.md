@@ -31,8 +31,8 @@ date: 2017-01-23
   * HDFS
   * Hive
   * Spark
-  
- ## Skils 
+    
+## Skils 
   
    * Leadership
    * rapid Proof of Concepts
