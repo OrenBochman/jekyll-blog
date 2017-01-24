@@ -19,7 +19,7 @@ date: 2017-01-23
   * Ensemble methods
   
 ## Environments
-  
+
   * Python 2
   * Scala
   * Spark
@@ -31,9 +31,9 @@ date: 2017-01-23
   * HDFS
   * Hive
   * Spark
-    
-## Skils 
-  
+
+## Skills
+
    * Leadership
    * rapid Proof of Concepts
    * ETL
