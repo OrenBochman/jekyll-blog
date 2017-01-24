@@ -20,11 +20,11 @@ date: 2017-01-23
   
 ## Environments
   
-  * Python | .
+  * Python 2
   * Scala
   * Spark
-  * R | .
-  * SAS |.
+  * R 2
+  * SAS .
   * SPSS
   * Mahout
   * Hadoop
@@ -35,6 +35,6 @@ date: 2017-01-23
  ## Skils 
   
    * Leadership
-   * rapid POC
+   * rapid Proof of Concepts
    * ETL
    
