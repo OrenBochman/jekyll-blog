@@ -32,7 +32,8 @@ Bayesian network models extend Baysian methods to cover models with are structur
 *  Bayesian Networks in R: with Applications in Systems Biology by Nagarajan, Radhakrishnan, Scutari, Marco, Lèbre, Sophie
   *  http://www.springer.com/gp/book/9781461464457
   *  https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/Scutari.html
-*  https://www.youtube.com/watch?v=iRvXfx9IWM0
+*  [Bayesian Network Modeling using R and Python - Pragyansmita Nayak](https://www.youtube.com/watch?v=iRvXfx9IWM0)
+*  [Bayes Nets (Updated) - Justin Esarey](https://www.youtube.com/watch?v=tCfmiAyIrwg)
 *  Stan (Python and R)
 *  The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy
 
